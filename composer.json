@@ -1,5 +1,5 @@
 {
-    "name": "eleven-labs/api-validator",
+    "name": "droptica/api-validator",
     "description": "Validate PSR-7 Requests against an OpenAPI/Swagger2 Schema",
     "authors": [
         {
